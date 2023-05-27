@@ -64,7 +64,7 @@ Please, follow this architecture for implementing new features/bug fixing.
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />
-For contributing to the project, please follow this step:
+For contributing to the project, please follow this steps:
 <ol>
 <li>Fork the repository from "<b>develop</b>" branch;</li>
 <li>Create your branch using this standard: feature/[NewFeatureName];</li>
